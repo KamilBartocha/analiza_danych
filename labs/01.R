@@ -39,5 +39,5 @@ CrossTable(x = wbcd_test_labels, wbcd_pred, prop.chisq = FALSE)
 
 ## DOPRACOWANIE MODELU
 wbcd_pred_d <- knn(train = wbcd_train, test = wbcd_test,
-                 cl = wbcd_train_labels, k = 20)
+                 cl = wbcd_train_labels, k = 3)
 CrossTable(x = wbcd_test_labels, wbcd_pred_d, prop.chisq = FALSE)
