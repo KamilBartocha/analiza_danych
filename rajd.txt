@@ -1,0 +1,27 @@
+0. Mail do ośrodka
+- Pokoje
+- informacja o licznie osób
+- informacja o noclegu Oprochy
+	mail do Oprochy
+- informacja o posiłkach wegetariańskich
+- zasady korzystania z atrakcji, wypisanie ich 
+- terminy posiłków
+- godzina wykwaterowania
+- informacja o trasach na 1 i 2 dzień
+ 
+1. Mail do osób
+- potwierdzenie wpłaty
+- zapisy na pokoje
+- zapisy na flanki
+- informacja o przebiegu, plan
+
+2. Mail do pracowników
+- potwierdzenie wpłaty
+- zapisy na pokoje
+- informacja o przebiegu, plan
+- informacja o trasach na 1 i 2 dzień
+
+3. Inne:
+- koszulki, odbiór
+- zakupy alko na flanki
+- 
