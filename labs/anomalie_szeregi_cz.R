@@ -48,3 +48,21 @@ plot(x, y, type = "o")
 difference_y <- y[2:length(y)] - y[1:length(y) - 1]
 boxplot(difference_y)
 which(difference_y > 0.5)
+
+#changes <- NULL
+#ks <- NULL
+#k = 11
+#while(k < (length(y) - 100)
+#      changes <- c(changes, max(abs(y[k] - y[k-10], abs(y[k] - y[k-10])))))
+
+normal_results <- c(100, 95, 106, 92, 109, 190, 210, 201, 198)
+new_results <- c(98, 32, 270, 140, 200)
+
+bandwidth <- 25
+our_estimate <- density(normal_results, bw = bandwidth)
+
+plot(our_estimate)
+
+new_density_1 = density(normal_results, bw = 25, n = 1,
+                        from = new_results[1], to = new_results[1])$y
+print(new_density_1)
